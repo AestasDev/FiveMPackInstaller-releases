@@ -1,0 +1,88 @@
+﻿CONDITIONS D'UTILISATION — FIVEM PACK INSTALLER
+
+Version du 7 octobre 2026
+
+En installant ou en utilisant FiveM Pack Installer (« le logiciel »), tu acceptes les présentes conditions. Si tu ne les acceptes pas, n'installe pas le logiciel et ne l'utilise pas.
+
+1. ÉDITEUR ET OBJET
+
+Le logiciel est édité par AestasFR (« l'éditeur »). Il installe des packs graphiques dans FiveM et dans Grand Theft Auto V, sauvegarde les fichiers d'origine qu'il remplace, et permet de revenir en arrière.
+
+Pour toute question, contacte l'éditeur par le canal par lequel tu as obtenu ta licence.
+
+2. LICENCE D'UTILISATION
+
+L'éditeur te concède un droit d'utilisation du logiciel personnel, non exclusif et non transférable, pour tes propres besoins, pendant la durée de ton abonnement et sur l'ordinateur pour lequel ta clé a été émise.
+
+Le logiciel n'est pas vendu, il est concédé en licence : l'éditeur en reste seul propriétaire, ainsi que de son code, de son nom, de son icône et de sa documentation.
+
+3. ABONNEMENT ET CLÉ DE LICENCE
+
+3.1. L'installation de nouveaux packs nécessite une clé de licence valide. Chaque clé est émise pour un seul ordinateur, identifié par l'identifiant affiché dans la fenêtre d'activation, et pour une durée déterminée (essai, semaine, mois ou durée illimitée), dernier jour inclus.
+
+3.2. La clé est personnelle. Il est interdit de la partager, de la publier, de la revendre ou de l'utiliser sur un autre ordinateur que celui pour lequel elle a été émise.
+
+3.3. L'abonnement ne se renouvelle pas automatiquement : à son terme, une nouvelle clé est nécessaire pour continuer à installer des packs.
+
+3.4. Réinstaller Windows ou changer d'ordinateur modifie l'identifiant de la machine et rend la clé inutilisable. Contacte alors l'éditeur, qui étudiera l'émission d'une clé de remplacement.
+
+3.5. Les prix, les moyens de paiement et les conditions de remboursement sont ceux indiqués au moment de l'achat, sans préjudice des droits que la loi t'accorde en tant que consommateur.
+
+4. CE QUI RESTE TOUJOURS ACCESSIBLE
+
+Même sans licence valide, ou après la fin de ton abonnement, le logiciel continue de te permettre de désinstaller les packs qu'il a installés, de restaurer tes sauvegardes, de retirer un pack posé à la main et de vider le cache de FiveM. Tes fichiers d'origine t'appartiennent : l'éditeur ne les retient jamais.
+
+5. CE QUI EST INTERDIT
+
+Sauf dans les cas où la loi l'autorise expressément, tu t'interdis de :
+
+- copier, distribuer, louer, vendre ou mettre à disposition le logiciel, en tout ou partie ;
+- décompiler, désassembler ou modifier le logiciel ;
+- contourner, désactiver ou altérer le contrôle de licence, ou fabriquer des clés ;
+- utiliser le logiciel pour porter atteinte aux droits de tiers.
+
+6. TES DONNÉES
+
+6.1. Le logiciel fonctionne hors ligne. Il n'envoie aucune donnée à l'éditeur ni à quiconque.
+
+6.2. Il conserve sur ton ordinateur, dans le dossier %APPDATA%\FiveMPackInstaller : tes réglages, ta clé de licence, un journal de diagnostic, l'historique des installations et les sauvegardes de tes fichiers d'origine. Ces données ne quittent ton ordinateur que si tu les transmets toi-même, par exemple en joignant le journal à une demande d'aide.
+
+6.3. L'identifiant de ta machine est une empreinte calculée à partir d'un identifiant de Windows : il ne contient pas cet identifiant en clair. Tu le communiques toi-même à l'éditeur pour obtenir ta clé ; l'éditeur ne l'utilise qu'à cette fin.
+
+6.4. Une seule connexion à Internet est possible, et seulement à ta demande : quand tu cliques sur « Installer » à côté de ReShade, le logiciel télécharge l'installateur officiel de ReShade depuis reshade.me.
+
+7. MODIFICATIONS DU JEU ET RESPONSABILITÉ DE L'UTILISATEUR
+
+7.1. Le logiciel modifie des fichiers de FiveM et de Grand Theft Auto V. Il montre ce qu'il va copier avant de le faire, et sauvegarde chaque fichier qu'il remplace. Il est recommandé de fermer FiveM et GTA V avant toute opération, et de ne pas supprimer le dossier des sauvegardes tant que des packs sont installés.
+
+7.2. Les packs graphiques sont des contenus de tiers. Tu es seul responsable des packs que tu installes, de leur provenance et du respect des droits de leurs auteurs. L'éditeur ne fournit aucun pack et ne garantit ni leur contenu, ni leur fonctionnement, ni leur innocuité.
+
+7.3. Certains serveurs FiveM interdisent ReShade, ENB ou les fichiers modifiés : il t'appartient de respecter leur règlement. Utiliser des fichiers de jeu modifiés en ligne, notamment dans GTA Online, peut entraîner des sanctions de la part de l'éditeur du jeu ; le logiciel te prévient quand un pack touche aux fichiers de GTA V, mais la décision et ses conséquences t'appartiennent.
+
+7.4. Un pack déjà en place que le logiciel n'a pas installé lui-même n'a pas de sauvegarde de l'état d'avant : son retrait met ses fichiers de côté, mais le logiciel ne peut pas restaurer ce qu'il n'a jamais sauvegardé.
+
+8. LOGICIELS ET MARQUES DE TIERS
+
+FiveM Pack Installer n'est ni affilié, ni approuvé, ni sponsorisé par Rockstar Games, Take-Two Interactive, Cfx.re ou l'auteur de ReShade. FiveM, Grand Theft Auto V et ReShade sont la propriété de leurs titulaires respectifs.
+
+ReShade est installé par son propre installateur officiel, selon ses propres conditions. Cette installation n'est pas couverte par les sauvegardes du logiciel.
+
+9. GARANTIE ET RESPONSABILITÉ
+
+9.1. Le logiciel est fourni en l'état. L'éditeur s'efforce de le maintenir fonctionnel, mais ne garantit pas qu'il fonctionnera sans interruption ni erreur, ni qu'il restera compatible avec les futures mises à jour de FiveM, de GTA V ou de Windows.
+
+9.2. Dans les limites autorisées par la loi, et sauf faute lourde ou intentionnelle de sa part, l'éditeur ne pourra être tenu responsable des dommages indirects résultant de l'utilisation du logiciel ou des packs installés avec lui, notamment une perte de données, une sanction prononcée par un serveur ou par l'éditeur d'un jeu, ou un dysfonctionnement du jeu.
+
+9.3. Rien dans les présentes conditions ne limite les garanties et les droits dont tu bénéficies en tant que consommateur en application de la loi.
+
+10. SUSPENSION ET FIN DE LA LICENCE
+
+En cas de manquement aux présentes conditions, notamment de partage de clé ou de contournement du contrôle de licence, l'éditeur peut refuser de te délivrer de nouvelles clés, sans préjudice de toute autre action. La licence prend fin à l'expiration de ta clé ; les articles 4 et 6 continuent de s'appliquer.
+
+11. ÉVOLUTION DES CONDITIONS
+
+L'éditeur peut faire évoluer les présentes conditions. Une nouvelle version du logiciel peut être accompagnée de nouvelles conditions, que tu acceptes en l'installant. Les conditions en vigueur sont celles affichées par le programme d'installation et dans la fenêtre d'activation du logiciel.
+
+12. DROIT APPLICABLE
+
+Les présentes conditions sont soumises au droit français. En cas de différend, tu peux contacter l'éditeur pour rechercher une solution amiable ; à défaut, le litige sera porté devant les juridictions compétentes selon les règles de droit commun.
