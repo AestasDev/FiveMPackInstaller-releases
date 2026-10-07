@@ -43,13 +43,13 @@ Sauf dans les cas où la loi l'autorise expressément, tu t'interdis de :
 
 6. TES DONNÉES
 
-6.1. Le logiciel fonctionne hors ligne. Il n'envoie aucune donnée à l'éditeur ni à quiconque.
+6.1. Le logiciel n'envoie aucune donnée personnelle à l'éditeur ni à quiconque. Les licences se vérifient hors ligne.
 
 6.2. Il conserve sur ton ordinateur, dans le dossier %APPDATA%\FiveMPackInstaller : tes réglages, ta clé de licence, un journal de diagnostic, l'historique des installations et les sauvegardes de tes fichiers d'origine. Ces données ne quittent ton ordinateur que si tu les transmets toi-même, par exemple en joignant le journal à une demande d'aide.
 
 6.3. L'identifiant de ta machine est une empreinte calculée à partir d'un identifiant de Windows : il ne contient pas cet identifiant en clair. Tu le communiques toi-même à l'éditeur pour obtenir ta clé ; l'éditeur ne l'utilise qu'à cette fin.
 
-6.4. Une seule connexion à Internet est possible, et seulement à ta demande : quand tu cliques sur « Installer » à côté de ReShade, le logiciel télécharge l'installateur officiel de ReShade depuis reshade.me.
+6.4. Le logiciel se connecte à Internet dans deux cas seulement. Au lancement, puis régulièrement tant qu'il est ouvert, il demande à GitHub, qui héberge sa page de téléchargement, si une nouvelle version existe, et la télécharge le cas échéant : cette demande ne transmet que ce que toute connexion transmet (ton adresse IP et le numéro de version du logiciel). Et quand tu cliques sur « Installer » à côté de ReShade, il télécharge l'installateur officiel de ReShade depuis reshade.me.
 
 7. MODIFICATIONS DU JEU ET RESPONSABILITÉ DE L'UTILISATEUR
 
@@ -79,10 +79,14 @@ ReShade est installé par son propre installateur officiel, selon ses propres co
 
 En cas de manquement aux présentes conditions, notamment de partage de clé ou de contournement du contrôle de licence, l'éditeur peut refuser de te délivrer de nouvelles clés, sans préjudice de toute autre action. La licence prend fin à l'expiration de ta clé ; les articles 4 et 6 continuent de s'appliquer.
 
-11. ÉVOLUTION DES CONDITIONS
+11. MISES À JOUR
 
-L'éditeur peut faire évoluer les présentes conditions. Une nouvelle version du logiciel peut être accompagnée de nouvelles conditions, que tu acceptes en l'installant. Les conditions en vigueur sont celles affichées par le programme d'installation et dans la fenêtre d'activation du logiciel.
+Les nouvelles versions du logiciel s'installent automatiquement : téléchargées en arrière-plan, elles s'installent au lancement suivant, ou tout de suite si tu le demandes, jamais pendant une opération en cours. Avant de l'exécuter, le logiciel vérifie que chaque mise à jour est signée par l'éditeur ; une mise à jour dont la signature ne correspond pas est refusée. Tes réglages, ta licence et ton historique sont conservés.
 
-12. DROIT APPLICABLE
+12. ÉVOLUTION DES CONDITIONS
+
+L'éditeur peut faire évoluer les présentes conditions. Une nouvelle version du logiciel peut être accompagnée de nouvelles conditions : elles sont mentionnées dans ses notes de version, et tu les acceptes en continuant d'utiliser le logiciel après sa mise à jour. Les conditions en vigueur sont celles affichées dans la fenêtre d'activation du logiciel (lien « Conditions d'utilisation ») et par le programme d'installation.
+
+13. DROIT APPLICABLE
 
 Les présentes conditions sont soumises au droit français. En cas de différend, tu peux contacter l'éditeur pour rechercher une solution amiable ; à défaut, le litige sera porté devant les juridictions compétentes selon les règles de droit commun.

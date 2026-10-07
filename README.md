@@ -27,6 +27,8 @@ Windows 10 ou 11 (64 bits) · FiveM installé · environ 32 Mo
 - **ReShade** : il vérifie qu'il est installé, et l'installe au besoin depuis le site officiel.
 - **Cache de FiveM** : vide les logs, les crashs et les données temporaires, sans toucher aux
   fichiers du jeu.
+- **Toujours à jour** : les nouvelles versions se téléchargent et s'installent toutes seules, et le
+  logiciel vérifie qu'elles sont bien signées par l'éditeur avant de les exécuter.
 
 ![Historique des installations](images/historique.png)
 
@@ -39,8 +41,10 @@ Windows 10 ou 11 (64 bits) · FiveM installé · environ 32 Mo
 4. Le logiciel demande les droits administrateur à chaque lancement : c'est normal, il écrit dans les
    dossiers de FiveM et de GTA V.
 
-Une nouvelle version s'installe par-dessus l'ancienne : tes réglages, ta licence et ton historique
-sont conservés.
+**Mises à jour** : une fois installé, le logiciel se met à jour tout seul — il télécharge la nouvelle
+version en arrière-plan et l'installe au lancement suivant (ou tout de suite, avec « Installer » dans
+sa barre latérale). Tes réglages, ta licence et ton historique sont conservés. Si tu as la 0.7.0,
+installe la 0.8.0 une fois à la main : c'est la première version qui se met à jour seule.
 
 ## Licence et abonnement
 
@@ -56,7 +60,8 @@ restaurer tes fichiers d'origine.**
 - Ferme FiveM et GTA V avant d'installer ou de désinstaller un pack.
 - Beaucoup de serveurs FiveM interdisent ReShade ou ENB : vérifie leur règlement.
 - Ne joue pas à GTA Online avec des fichiers de GTA V modifiés : Rockstar sanctionne les comptes.
-- Le logiciel fonctionne hors ligne et n'envoie aucune donnée.
+- Le logiciel n'envoie aucune donnée personnelle. Il ne se connecte qu'à GitHub, pour chercher ses
+  mises à jour, et à reshade.me si tu lui demandes d'installer ReShade.
 
 ## Vérifier le fichier téléchargé
 
@@ -64,7 +69,7 @@ Chaque version publie l'empreinte SHA-256 de son installateur dans ses notes de 
 comparer, dans PowerShell :
 
 ```
-Get-FileHash .\FiveMPackInstaller-Setup-0.7.0.exe -Algorithm SHA256
+Get-FileHash .\FiveMPackInstaller-Setup-0.8.0.exe -Algorithm SHA256
 ```
 
 ---
