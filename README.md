@@ -17,20 +17,49 @@ Windows 10 ou 11 (64 bits) · FiveM installé · environ 32 Mo
 
 ## Ce qu'il fait
 
-- **Dépose ton pack** (`.zip`, `.rar`, `.7z` ou dossier) : chaque fichier est rangé automatiquement,
-  même quand le pack mélange des dossiers « FIVEM », « GTA5 » et des emballages au nom libre.
-- **Tu vérifies avant d'installer** : la liste montre où va chaque fichier, et tu peux en changer la
-  destination d'un clic. Les programmes (`.exe`, `.bat`, scripts…) sont bloqués, jamais copiés.
-- **Tout se défait** : chaque installation est sauvegardée dans l'Historique et se désinstalle d'un
-  clic. « Tout remettre d'origine » rend un jeu propre.
-- **Il voit un pack déjà posé à la main**, avant ce logiciel, et peut le mettre de côté proprement.
-- **ReShade** : il vérifie qu'il est installé, et l'installe au besoin depuis le site officiel.
-- **Cache de FiveM** : vide les logs, les crashs et les données temporaires, sans toucher aux
-  fichiers du jeu.
+### Dépose ton pack
+
+Un `.zip`, un `.rar`, un `.7z` ou un dossier : glisse-le dans la fenêtre, ou choisis-le avec les
+boutons. Chaque fichier est rangé automatiquement, même quand le pack mélange des dossiers « FIVEM »,
+« GTA5 » et des emballages au nom libre. La barre latérale montre d'un coup d'œil l'état de FiveM, de
+ReShade et de ta licence.
+
+![La zone de dépôt, prête à recevoir un pack](images/accueil.png)
+
+### Vérifie avant d'installer
+
+Rien n'est copié avant que tu aies vu la liste (image en haut de page) : où va chaque fichier, dans
+FiveM ou dans GTA V, et ce qui est ignoré. Tu peux changer une destination d'un clic. Les programmes
+(`.exe`, `.bat`, scripts…) sont bloqués, jamais copiés, et les points à surveiller sont signalés
+avant l'installation.
+
+### Tout se défait
+
+Chaque installation garde les fichiers qu'elle remplace. Dans l'Historique, **Désinstaller** remet un
+pack comme avant ; **Tout remettre d'origine** rend un jeu propre. Ça marche même sans licence.
+
+![L'historique des installations](images/historique.png)
+
+### Il voit un pack déjà posé à la main
+
+Un pack installé avant le logiciel (mods de FiveM, ENB de GTA V) est repéré : tu vois ce qu'il a
+posé, et **Retirer…** le met de côté proprement, avec la possibilité de le remettre en place.
+
+![Un pack posé à la main, repéré au démarrage](images/pack-existant.png)
+
+### Vide le cache de FiveM
+
+Logs, rapports de crash et données temporaires : utile quand FiveM plante ou charge mal un serveur.
+Les fichiers du jeu (game-storage) ne sont jamais touchés, et tu vois la liste avant de supprimer.
+
+![Le nettoyage du cache de FiveM](images/cache.png)
+
+### Et aussi
+
+- **ReShade** : le logiciel vérifie qu'il est installé, et l'installe au besoin depuis le site
+  officiel.
 - **Toujours à jour** : les nouvelles versions se téléchargent et s'installent toutes seules, et le
   logiciel vérifie qu'elles sont bien signées par l'éditeur avant de les exécuter.
-
-![Historique des installations](images/historique.png)
 
 ## Installation
 
@@ -57,6 +86,8 @@ L'installation de packs demande un abonnement. Au premier lancement, la fenêtre
   le même code : tu retrouves la même clé.
 - **Sinon**, envoie ton identifiant à AestasFR par le canal où tu achètes ta licence : tu recevras une
   clé faite pour ta machine.
+
+<img src="images/licence.png" width="560" alt="La fenêtre d'activation : ton identifiant, puis la clé reçue">
 
 Colle la clé dans la fenêtre « Activer ta licence », puis clique sur **Activer**. Un renouvellement
 commence à la fin de ton abonnement en cours : tu ne perds aucun jour. Tu as réinstallé Windows ou
