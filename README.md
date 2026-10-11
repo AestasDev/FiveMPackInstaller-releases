@@ -49,8 +49,18 @@ installe la 0.8.0 une fois à la main : c'est la première version qui se met à
 ## Licence et abonnement
 
 L'installation de packs demande un abonnement. Au premier lancement, la fenêtre d'activation affiche
-**l'identifiant de ton ordinateur** : envoie-le à AestasFR par le canal où tu achètes ta licence, tu
-recevras une clé faite pour ta machine.
+**l'identifiant de ton ordinateur** (bouton « Copier ») : ta clé est faite pour cet ordinateur-là.
+
+- **Tu as reçu un code d'achat** (`XXXX-XXXX-XXXX-XXXX`) : sur le serveur Discord de la boutique,
+  clique sur **Obtenir ma licence** (ou tape `/licence`), puis indique ton code et ton identifiant. Ta
+  clé arrive aussitôt, avec une copie en message privé. Tu l'as perdue ? Refais la même demande avec
+  le même code : tu retrouves la même clé.
+- **Sinon**, envoie ton identifiant à AestasFR par le canal où tu achètes ta licence : tu recevras une
+  clé faite pour ta machine.
+
+Colle la clé dans la fenêtre « Activer ta licence », puis clique sur **Activer**. Un renouvellement
+commence à la fin de ton abonnement en cours : tu ne perds aucun jour. Tu as réinstallé Windows ou
+changé d'ordinateur ? Ton identifiant a changé : contacte AestasFR pour une clé de remplacement.
 
 Même sans licence, ou après la fin de ton abonnement, **tu peux toujours désinstaller tes packs et
 restaurer tes fichiers d'origine.**

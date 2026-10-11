@@ -1,6 +1,6 @@
 ﻿CONDITIONS D'UTILISATION — FIVEM PACK INSTALLER
 
-Version du 7 octobre 2026
+Version du 8 octobre 2026
 
 En installant ou en utilisant FiveM Pack Installer (« le logiciel »), tu acceptes les présentes conditions. Si tu ne les acceptes pas, n'installe pas le logiciel et ne l'utilise pas.
 
@@ -47,7 +47,7 @@ Sauf dans les cas où la loi l'autorise expressément, tu t'interdis de :
 
 6.2. Il conserve sur ton ordinateur, dans le dossier %APPDATA%\FiveMPackInstaller : tes réglages, ta clé de licence, un journal de diagnostic, l'historique des installations et les sauvegardes de tes fichiers d'origine. Ces données ne quittent ton ordinateur que si tu les transmets toi-même, par exemple en joignant le journal à une demande d'aide.
 
-6.3. L'identifiant de ta machine est une empreinte calculée à partir d'un identifiant de Windows : il ne contient pas cet identifiant en clair. Tu le communiques toi-même à l'éditeur pour obtenir ta clé ; l'éditeur ne l'utilise qu'à cette fin.
+6.3. L'identifiant de ta machine est une empreinte calculée à partir d'un identifiant de Windows : il ne contient pas cet identifiant en clair. Tu le communiques toi-même à l'éditeur pour obtenir ta clé ; l'éditeur ne l'utilise qu'à cette fin. Si tu obtiens ta clé par le bot Discord de l'éditeur, celui-ci conserve l'identifiant de ta machine, ton identifiant Discord, ton code d'achat et les dates de validité de ta clé, uniquement pour gérer ta licence (te renvoyer ta clé, enchaîner tes renouvellements, répondre à tes demandes d'aide).
 
 6.4. Le logiciel se connecte à Internet dans deux cas seulement. Au lancement, puis régulièrement tant qu'il est ouvert, il demande à GitHub, qui héberge sa page de téléchargement, si une nouvelle version existe, et la télécharge le cas échéant : cette demande ne transmet que ce que toute connexion transmet (ton adresse IP et le numéro de version du logiciel). Et quand tu cliques sur « Installer » à côté de ReShade, il télécharge l'installateur officiel de ReShade depuis reshade.me.
 
