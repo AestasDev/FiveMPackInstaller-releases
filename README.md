@@ -15,6 +15,9 @@ jamais perdu.
 
 Windows 10 ou 11 (64 bits) · FiveM installé · environ 32 Mo
 
+💬 **[Rejoindre le Discord Aestas Studio](https://discord.gg/bhseMPZqn8)** — ta licence, et de l'aide
+si quelque chose ne va pas.
+
 ## Ce qu'il fait
 
 ### Dépose ton pack
@@ -81,8 +84,8 @@ installe la dernière version une fois à la main : les mises à jour automatiqu
 L'installation de packs demande un abonnement. Au premier lancement, la fenêtre d'activation affiche
 **l'identifiant de ton ordinateur** (bouton « Copier ») : ta clé est faite pour cet ordinateur-là.
 
-- **Tu as reçu un code d'achat** (`XXXX-XXXX-XXXX-XXXX`) : sur le serveur Discord de la boutique,
-  clique sur **Obtenir ma licence** (ou tape `/licence`), puis indique ton code et ton identifiant. Ta
+- **Tu as reçu un code d'achat** (`XXXX-XXXX-XXXX-XXXX`) : sur
+  [le serveur Discord Aestas Studio](https://discord.gg/bhseMPZqn8), clique sur **Obtenir ma licence** (ou tape `/licence`), puis indique ton code et ton identifiant. Ta
   clé arrive aussitôt, avec une copie en message privé. Tu l'as perdue ? Refais la même demande avec
   le même code : tu retrouves la même clé.
 - **Sinon**, envoie ton identifiant à AestasFR par le canal où tu achètes ta licence : tu recevras une
@@ -104,6 +107,8 @@ restaurer tes fichiers d'origine.**
 - Ne joue pas à GTA Online avec des fichiers de GTA V modifiés : Rockstar sanctionne les comptes.
 - Le logiciel n'envoie aucune donnée personnelle. Il ne se connecte qu'à GitHub, pour chercher ses
   mises à jour, et à reshade.me si tu lui demandes d'installer ReShade.
+- Un souci ? Demande de l'aide sur le [Discord](https://discord.gg/bhseMPZqn8). Si le logiciel se
+  comporte mal, joins son journal : bouton **Journal** dans l'Historique.
 
 ## Vérifier le fichier téléchargé
 
