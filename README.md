@@ -73,7 +73,8 @@ Les fichiers du jeu (game-storage) ne sont jamais touchés, et tu vois la liste 
 **Mises à jour** : une fois installé, le logiciel se met à jour tout seul — il télécharge la nouvelle
 version en arrière-plan et l'installe au lancement suivant (ou tout de suite, avec « Installer » dans
 sa barre latérale). Tes réglages, ta licence et ton historique sont conservés. Si tu as la 0.7.0,
-installe la 0.8.0 une fois à la main : c'est la première version qui se met à jour seule.
+installe la dernière version une fois à la main : les mises à jour automatiques commencent avec la
+0.8.0.
 
 ## Licence et abonnement
 
@@ -110,7 +111,7 @@ Chaque version publie l'empreinte SHA-256 de son installateur dans ses notes de 
 comparer, dans PowerShell :
 
 ```
-Get-FileHash .\FiveMPackInstaller-Setup-0.8.0.exe -Algorithm SHA256
+Get-FileHash .\FiveMPackInstaller-Setup-0.8.1.exe -Algorithm SHA256
 ```
 
 ---
