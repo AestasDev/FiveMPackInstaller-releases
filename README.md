@@ -87,7 +87,8 @@ L'installation de packs demande un abonnement. Au premier lancement, la fenêtre
 - **Tu as reçu un code d'achat** (`XXXX-XXXX-XXXX-XXXX`) : sur
   [le serveur Discord Aestas Studio](https://discord.gg/bhseMPZqn8), clique sur **Obtenir ma licence** (ou tape `/licence`), puis indique ton code et ton identifiant. Ta
   clé arrive aussitôt, avec une copie en message privé. Tu l'as perdue ? Refais la même demande avec
-  le même code : tu retrouves la même clé.
+  le même code : tu retrouves la même clé. Il faut la version 0.8.2 ou plus récente : si le logiciel
+  est déjà installé, il s'est mis à jour tout seul.
 - **Sinon**, envoie ton identifiant à AestasFR par le canal où tu achètes ta licence : tu recevras une
   clé faite pour ta machine.
 
@@ -116,7 +117,7 @@ Chaque version publie l'empreinte SHA-256 de son installateur dans ses notes de 
 comparer, dans PowerShell :
 
 ```
-Get-FileHash .\FiveMPackInstaller-Setup-0.8.1.exe -Algorithm SHA256
+Get-FileHash .\FiveMPackInstaller-Setup-0.8.2.exe -Algorithm SHA256
 ```
 
 ---
